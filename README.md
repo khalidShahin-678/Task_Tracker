@@ -24,3 +24,6 @@ this will add "Task 1" to my list of Tasks on Tasks.json file
 
 php index.php mark-done 1
 this will modify the Status of Task with ID = 1 to done
+
+##### inspiration:
+https://roadmap.sh/projects/task-tracker
